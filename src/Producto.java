@@ -28,7 +28,7 @@ public class Producto {
         System.out.println("Nombre:     " + nombre);
         System.out.println("Precio:     $" + String.format("%.2f", precio));
         System.out.println("Existencia: " + existencia + " unidades");
-        System.out.println("Producto disponible");
+        System.out.println("Producto disponible para venta");
     }
 
     public static void main(String[] args) {
